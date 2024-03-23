@@ -55,4 +55,8 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 
 - Retorne a página inicial do Azure;
 
+![GIF Criando Conta de Armazenamento](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/ff7993e1-5c0a-4aec-9e0f-4e3cbc923394)
+
+
+
 
