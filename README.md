@@ -64,4 +64,3 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 
 
 
-
