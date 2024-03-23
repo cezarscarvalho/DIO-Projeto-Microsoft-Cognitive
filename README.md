@@ -19,7 +19,11 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 
 ![Criar um Recurso](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech/assets/158849910/0c9f2c5d-aeaa-44f8-bfb6-3dbb594bce46)
 
-<video controls src="Vídeo criando Recursos-2.mp4" title="Title"></video>
+
+https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0c48dfd7-ee45-4876-97f8-c51525aa8122
+
+
+
 
 
 
