@@ -19,7 +19,7 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 
 ![Criar um Recurso](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech/assets/158849910/0c9f2c5d-aeaa-44f8-bfb6-3dbb594bce46)
 
-![GIF criando Recursos](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0cbd962f-a522-4594-b55e-a88c55a085a8)
+![GIF criando Recursos](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/d1af18b8-4112-448a-9923-0a838d012c14)
 
 
 
@@ -55,3 +55,5 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 ## Crie uma conta de armazenamento
 
 - Retorne a página inicial do Azure;
+
+
