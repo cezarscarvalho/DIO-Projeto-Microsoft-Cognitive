@@ -19,12 +19,7 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 
 ![Criar um Recurso](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech/assets/158849910/0c9f2c5d-aeaa-44f8-bfb6-3dbb594bce46)
 
-<<<<<<< HEAD
-![alt text](<GIF criando Recursos.gif>)
-=======
->>>>>>> d1c93e0371e8e294c0ef33bce45c1b897970c593
-
-https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0c48dfd7-ee45-4876-97f8-c51525aa8122
+![GIF criando Recursos](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0cbd962f-a522-4594-b55e-a88c55a085a8)
 
 
 
