@@ -18,7 +18,8 @@ Neste laboratório você irá:
 Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](https://portal.azure.com/learn.docs.microsoft.com?azure-portal=true).
 
 ![Criar um Recurso](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech/assets/158849910/0c9f2c5d-aeaa-44f8-bfb6-3dbb594bce46)
-https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/13987618-118a-4c4e-8794-21ab9dd0bab0
+
+<video controls src="Vídeo criando Recursos-2.mp4" title="Title"></video>
 
 
 
