@@ -58,6 +58,17 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 - Localize Storage account (Conta de armazenamento).
 - Clique em + Create (+ Criar).
 
+![Criando Conta de Armazenamento](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/dd6659e1-17fd-4599-9645-fca6e81da963)
+
+#  💡
+
+Lembre-se de selecionar a opção Standard
+
+![Standard](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/b4662c2e-57f0-4cb5-9086-8e395f1338f8)
+
+Selecione a opção (LRS)
+
+![LRS](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/a0db7a1a-931f-463e-93aa-46c13a3977e1)
 
 
 
