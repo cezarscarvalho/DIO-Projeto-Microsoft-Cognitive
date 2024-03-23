@@ -59,7 +59,7 @@ Primeiramente você deve acessar o seu Portal Azure, através do [Portal Azure](
 - Clique em + Create (+ Criar).
 
 
-![Criando Conta de Armazenamento](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/b6e9abe6-d689-41a7-8b70-889c80002fac)
+
 
 
 
