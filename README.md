@@ -94,7 +94,7 @@ Preencheremos:
 
 ![Nome do Container](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/16417bd0-cd5e-4949-98b3-706567d6e19a)
 
-Após a clicar em Create (Criar), observe sua criação
+Clicar em Create (Criar), observe sua criação
 
 ![Coffeereviews criado](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/5ac4afc7-49e9-47a9-b168-95e43da41904)
 
