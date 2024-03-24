@@ -70,6 +70,102 @@ Selecione a opção (LRS)
 
 ![LRS](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/a0db7a1a-931f-463e-93aa-46c13a3977e1)
 
+- Clique em Review + create (Revisão + criação)
+- clique em Create (Criar)
+
+![Criação Final Storage](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/cf7d59b6-15bd-4796-bea9-3efdef079b73)
+
+# 📒 Precisamos permitir o acesso anônimo ao blob, já que este laboratório trata-se apenas de um estudo aos princípios da Inteligência Artificial
+
+No Storage account criado, selecionar Settings (Configurações) ➡️ Configuration (Configuração). Na seção Allow Blob anonymous access (Permitir acesso anônimo do Blob), marcaremos Enabled (Habilitado). Save (Salvar).
+
+![Configuração Blob](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/3e5cbfe7-22be-40d7-a996-c3b496e8b948)
+
+## Criando um Container
+
+Em Data storage (Armazenamento de dados), clique em Containers.
+Nele serão inseridos as avaliações dos clientes da cafeteria, onde através das ferramentas da IA iremos otimizar avaliações de sentimentos com a opnião dos clientes.
+
+![Criação de Container](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/1e194603-1ea1-4fe2-a163-ca16ac158720)
+
+Preencheremos:
+- Name : coffeereviews
+- Anonymous access level : Container
+
+![Nome do Container](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/16417bd0-cd5e-4949-98b3-706567d6e19a)
+
+Após a clicar em Create (Criar), observe sua criação
+
+![Coffeereviews criado](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/5ac4afc7-49e9-47a9-b168-95e43da41904)
+
+Selecionar o Container criado e selecione Upload para carregar o arquivo .zip de avaliações exemplo que constam na documentação deste Laboratório.
+
+![Upload de Arquivos](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/fd4349a2-1aaf-4786-94ee-e4eff3e77b2b)
+
+![Upload coffeereviews](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/ed5b62d3-93e6-45be-8ad1-bbed9665d388)
+
+## Importação e indexação de dados para o IA Search
+
+Neste ponto indexaremos os dados fornecidos e assim criaremos um índice de pesquisa.
+No Portal Azure localize o Al search 
+
+No meu caso, após clicar em Al search tive que criar um serviço para sim poder seguir para a importação dos dados
+
+![Importar dados](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/70083726-b226-4cef-b8c6-cc7ea8e887e6)
+
+Em Connect to your data (Conectar-se aos seus dados), na lista Data Source (Fonte de dados), selecionar Azure Blob Storage e preencha os detalhes do armazenamento de dados com os seguintes dados:
+
+![Conectar Dados](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/fbfba3dc-f2b7-4738-a21a-63f6907b971b)
+
+![Preenchimento de dados](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/b859c6c9-79d3-479c-a972-ea630c41fe04)
+
+clique em Next: Add cognitive skills (Optional) (Próximo: Adicionar habilidades cognitivas (opcional))
+
+![Próximo Habilidades Cognitivas](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/a3fdfc62-5d47-4ae3-9f19-3dd01f639435)
+
+Adicionar Enriquecimentos - Add enrichments
+
+![Adicionar Enriquecimentos](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/888d4942-3d7d-41eb-92a2-73fc89b034a3)
+
+![Adicionar Enriquecimentos 2](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/ae45f2e6-319c-4a96-b910-9a4baf2a06d9)
+
+![Adicionar Enriquecimentos 3](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/913578d6-1dfa-44ee-85de-00959e337aa2)
+
+Em Save enrichments to a knowledge store (Salvar enriquecimentos em um armazenamento de conhecimento) preencher seguindo o modelo abaixo:
+
+![Conhecimento de Enriquecimento ](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/80cbcdd3-4352-4d16-9fea-2ba569f9219d)
+
+Personalize o Customize target index (índice de destino)
+
+![indice de destino](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/432bb66d-3e37-46bb-b19d-9b78e920fde7)
+
+Revise as Configurações e selecione FILTERABLE (FILTRÁVEL) para todos os campos que já estão selecionados por padrão.
+
+![Dados filtrados](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/9ac3be0e-646c-43ba-9225-95e53a9273f7)
+
+
+## Crie um indexador (Create an indexer)
+
+Expanda as opções avançadas
+
+![Opções Avançadas](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/a9c2655e-5bc9-4bff-94b8-f85aafb64339)
+
+![Opção Avançadas Indexador](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/acf0b235-7082-4765-a63a-e4a3376d58a4)
+
+## Consultando o Índice
+
+Clique em Search explorer (Explorador de pesquisa)
+
+![Consulta de indice](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/a2d044d8-908a-4290-8f4b-469276da1d20)
+
+Clique em View - Json
+
+![indice json](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/6418affa-8fed-4ffd-9fe0-c996355ddb83)
+
+![Resultado json](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0588cd42-cac3-438e-858d-bb88a016a9fd)
+
+
+## As ferramentas da IA facilitam a consulta de documentos, depoimentos otimizando as consultas nas Empresas.
 
 
 
