@@ -1,4 +1,9 @@
-## Azure Cognitive Search
+# 🔍 Azure Cognitive Search: Mineração de Conhecimento
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Cognitive Search](https://img.shields.io/badge/Cognitive%20Search-0058AD?style=for-the-badge&logo=microsoft&logoColor=white)]()
+
+Este projeto foca na configuração de uma solução de **Busca Inteligente (AI Search)** utilizando o Azure. O objetivo é extrair insights de dados não estruturados e criar um índice de pesquisa eficiente, simulando uma base de conhecimento para suporte ao cliente ou análise de dados corporativos.
 
 Vamos imaginar que você trabalha para a Fourth Coffee, uma rede nacional de cafés. Você foi solicitado a ajudar a criar uma solução de mineração de conhecimento que facilite a busca de insights sobre as experiências dos clientes. Você decide criar um índice do Azure AI Search usando dados extraídos de avaliações de clientes.
 
@@ -165,7 +170,29 @@ Clique em View - Json
 ![Resultado json](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive/assets/158849910/0588cd42-cac3-438e-858d-bb88a016a9fd)
 
 
-## As ferramentas da IA facilitam a consulta de documentos, depoimentos otimizando as consultas nas Empresas.
+## As ferramentas de IA facilitam a consulta de documentos, depoimentos otimizando as consultas nas Empresas.
+
+## 📚 Outros Projetos de IA e Cloud (Microsoft Azure)
+
+Este repositório faz parte da minha trilha de especialização em Inteligência Artificial. Confira outros projetos realizados:
+
+* [**IA Generativa e Copilot**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) - Exploração de modelos de linguagem e prompts.
+* [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
+* [**Azure Vision**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) - Análise de imagens e OCR.
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+---
+
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+
+## ✉️ Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
+
+
 
 
 
