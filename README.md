@@ -179,11 +179,17 @@ Este repositório faz parte da minha trilha de especialização em Inteligência
 * [**IA Generativa e Copilot**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) - Exploração de modelos de linguagem e prompts.
 * [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
 * [**Azure Vision**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) - Análise de imagens e OCR.
-* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
-
+* [**Azure Machine Learning**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning) - Modelagem de dados preditivos.
 ---
 
-* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+# 🤝 Contribuição em Projetos Open Source
+
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+Repositório focado no aprendizado do fluxo de trabalho colaborativo (Git Flow). Aqui documento o processo de **Fork, Clone, Pull Request e Code Review**, competências essenciais para qualquer profissional que atue em times de tecnologia modernos e ágeis.
+
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source)
 
 
 ## ✉️ Contato
@@ -191,6 +197,7 @@ Este repositório faz parte da minha trilha de especialização em Inteligência
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
+
 
 
 
